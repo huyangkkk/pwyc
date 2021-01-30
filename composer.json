@@ -1,0 +1,21 @@
+{
+    "name": "kentt/pwyc",
+    "description": "original article cove tool",
+    "type": "library",
+    "require": {
+        "php": "7.2.34"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "kentt",
+            "email": "xkheynnt@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Pwyc\\": "src/"
+        }
+    }
+}
